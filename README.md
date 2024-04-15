@@ -1,4 +1,4 @@
-### Olá! eu sou o André Luis
+### Olá! Eu sou o André Luis
 
 ### Conheça um pouco sobre mim:<br>
 💻 | Acadêmico de Engenharia da Computação - UFC<br>
